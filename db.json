@@ -1,7 +1,128 @@
 {
 
-    "dogs":[],
-    "Signup": [],
+    "dogs":[
+        {
+          "id": 1,
+          "name": "seenu",
+          "age": "10",
+          "gender": "male",
+          "place": "Allahabad"
+        },
+        {
+          "id": 2,
+          "name": "sheru",
+          "age": "9",
+          "gender": "male",
+          "place": "Allahabad"
+        },
+        {
+          "id": 3,
+          "name": "sheetal",
+          "age": "6",
+          "gender": "female",
+          "place": "Allahabad"
+        },
+        {
+          "id": 4,
+          "name": "shanky",
+          "age": "9",
+          "gender": "male",
+          "place": "Allahabad"
+        },
+        {
+          "id": 5,
+          "name": "shejoy",
+          "age": "12",
+          "gender": "male",
+          "place": "Allahabad"
+        },
+        {
+          "id": 6,
+          "name": "kettra",
+          "age": "11",
+          "gender": "male",
+          "place": "lucknow"
+        },
+        {
+          "id": 7,
+          "name": "ketty",
+          "age": "13",
+          "gender": "male",
+          "place": "lucknow"
+        },
+        {
+          "id": 8,
+          "name": "killine",
+          "age": "13",
+          "gender": "female",
+          "place": "lucknow"
+        },
+        {
+          "id": 9,
+          "name": "kesroi",
+          "age": "15",
+          "gender": "female",
+          "place": "lucknow"
+        },
+        {
+          "id": 10,
+          "name": "kebu",
+          "age": "15",
+          "gender": "female",
+          "place": "lucknow"
+        },
+        {
+          "id": 11,
+          "name": "shemofoni",
+          "age": "15",
+          "gender": "female",
+          "place": "lucknow"
+        },
+        {
+          "id": 12,
+          "name": "shirlik",
+          "age": "15",
+          "gender": "female",
+          "place": "lucknow"
+        }
+      ],
+    "Signup": [
+        {
+          "name": "mohd Yunus",
+          "age": "20",
+          "email": "yunus@gmail.com",
+          "password": "123",
+          "id": 1
+        },
+        {
+          "name": "saif",
+          "age": "20",
+          "email": "saif@gmail.com",
+          "password": "123",
+          "id": 2
+        },
+        {
+          "name": "ritesh",
+          "age": "21",
+          "email": "ritesh@gmail.com",
+          "password": "123",
+          "id": 3
+        },
+        {
+          "name": "sarik",
+          "age": "22",
+          "email": "sarik@gmail.com",
+          "password": "123",
+          "id": 4
+        },
+        {
+          "name": "admin",
+          "age": "24",
+          "email": "admin@gmail.com",
+          "password": "123",
+          "id": 5
+        }
+      ],
     "Login": [],
     "profile": { "name": "typicode" }
 }
