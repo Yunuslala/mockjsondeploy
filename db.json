@@ -3,6 +3,6 @@
     "dogs":[],
     "Signup": [],
     "Login": [],
-    "task": []
+    "profile": { "name": "typicode" }
 }
    
